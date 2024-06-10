@@ -26,7 +26,8 @@
 
 ## 🎓 Education
 
-📓 **Currently pursuing a degree in Software Engineering** through evening distance learning at Peter the Great St. Petersburg Polytechnic University (Institute of Computer Science and Cybersecurity, High School of Software Engineering).
+📓 **Currently studying Software Engineering at St. Petersburg State University under an individual program (Institute of Computer Science and Cybersecurity, High School). GPA 4.7.
+
 ✅ **Completed courses**:
 - [" Python Generation ": course for beginners](https://stepik.org/cert/1918247?lang=en)
 - [Web development for beginners: HTML and CSS](https://stepik.org/cert/1877786?lang=en)
