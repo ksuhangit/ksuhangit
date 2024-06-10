@@ -34,7 +34,9 @@
 
 🌍 **Foreign language skills**:
 
-➕ 
+- English - B2 - upper intermediate
+- Russian - C2 - native
+- Chineese - HSK 1 - beginner
 
 
           
