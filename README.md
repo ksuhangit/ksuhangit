@@ -9,9 +9,7 @@
 - ✉️ **Email:** [nazarova.kseniia@mail.ru](mailto:nazarova.kseniia@mail.ru).
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksuhangit&theme=dracula&include_all_commits=true&layout=compact&hide=PureBasic" alt="Most used programming languages">
-</div>
+
 
 ## Languages and tools
 <div style="display: flex;">
@@ -20,6 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" title="git" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" title="matlab" width="40" height="40" />&nbsp;
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksuhangit&theme=dracula&include_all_commits=true&layout=compact&hide=PureBasic" alt="Most used programming languages">
 </div>
           
 ## 🔧 Technologies
