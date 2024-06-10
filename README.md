@@ -1,4 +1,7 @@
-## Hi there 👋
+<div id="header" align="center">
+<h1>Hi there, I'm Ksu</h1>
+<h3>Full Stack Developer from Moscow</h3>
+</div>
 
 <!--
 **ksuhangit/ksuhangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
