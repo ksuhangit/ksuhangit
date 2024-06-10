@@ -6,7 +6,7 @@
 
 ## 👥 Contact me
 - ✈️ **Telegram:** [@ka_nazarova](https://t.me/ka_nazarova).
-- 📫 **Email:** [nazarova.kseniia@mail.ru](mailto:nazarova.kseniia@mail.ru).
+- ✉️ **Email:** [nazarova.kseniia@mail.ru](mailto:nazarova.kseniia@mail.ru).
 
 ## 🔧 Technologies
 
