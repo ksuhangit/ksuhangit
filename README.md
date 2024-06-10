@@ -5,14 +5,10 @@
 </div>
 
 ## 👥 Contact me
-- 🔗 **LinkedIn:** [@seigtm](https://www.linkedin.com/in/seigtm).
-- ✈️ **Telegram:** [@seigtm](https://t.me/seigtm).
-- 📫 **Email:** [job@seig.ru](mailto:job@seig.ru).
+- ✈️ **Telegram:** [@ka_nazarova](https://t.me/ka_nazarova).
+- 📫 **Email:** [nazarova.kseniia@mail.ru](mailto:nazarova.kseniia@mail.ru).
 - 📄 **Russian resume:** [\*click me\*](https://seigtm.github.io).
 ## 🔧 Technologies
-- 🚀 **Primary languages:** C++ and C.
-- 📚 **Also familiar with:** Python, Fortran, Java, Kotlin, Rust.
-- 🔨 **Tools & technologies:** STL, Qt, CMake, Ninja, Make, Shell scripting, Boost, Android, Linux (including kernel development), Git, CI/CD, Google Test, Gcovr, Conan, Markdown, LaTex.
 
 
 Here are some ideas to get you started:
