@@ -1,6 +1,27 @@
 <h1 align="center">Hi there, I'm Ksu</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    @keyframes moveText {
+        0% {transform: translateX(0);}
+        50% {transform: translateX(100%);}
+        100% {transform: translateX(0);}
+    }
+
+    .moving-text {
+        display: inline-block;
+        white-space: nowrap;
+        animation: moveText 3s infinite;
+    }
+</style>
+</head>
+<body>
+    <div class="moving-text">Software engineer student from Moscow, Russia</div>
+</body>
+</html>
 
 
 <div id="socials" align="center"
