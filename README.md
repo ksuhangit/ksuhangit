@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software engineer student from Moscow, Russia </h3>
 <div style="display: flex; justify-content: center;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=1000&lines=Software+engineer+student+from+Moscow%2C+Russia" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&random=true&width=1200&lines=Software+engineer+student+from+Moscow%2C+Russia" alt="Typing SVG" /></a>
 </div>
 
 
