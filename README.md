@@ -3,7 +3,7 @@
 <h3>Full Stack Developer from Moscow</h3>
 </div>
 <div id="socials" align="center"
-  <a href="https://web.telegram.org/ka_nazarova">
+  <a href="https://t.me/ka_nazarova">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   
