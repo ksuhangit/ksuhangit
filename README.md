@@ -27,7 +27,11 @@
 ## 🎓 Education
 
 - 📓 **Currently pursuing a degree in Software Engineering** through evening distance learning at Peter the Great St. Petersburg Polytechnic University (Institute of Computer Science and Cybersecurity, High School of Software Engineering).
-- ✅ **Completed courses** at Novosibirsk Academy (HTML, CSS, C#, Unity) and Information Technologies, Mechanics, and Optics University (C and C++).
+- ✅ **Completed courses**:
+- Generation Python": course for beginners
+
+
+- at Novosibirsk Academy (HTML, CSS, C#, Unity) and Information Technologies, Mechanics, and Optics University (C and C++).
 
           
 ## 🔧 Technologies
