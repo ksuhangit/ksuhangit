@@ -1,16 +1,21 @@
-<h1 align="center">Hi there, I'm Ksu</a> 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=1000&lines=Software+engineer+student+from+Moscow%2C+Russia" alt="Typing SVG" /></a>
-
-<div id="socials" align="center"
-  <a href="[https://t.me/ka_nazarova">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  
-  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=seigtm">
+<br />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=420&height=100&lines=Hello%2C+I'm+Konstantin+Baranov!+%F0%9F%91%8B;A+C%2B%2B+software+engineer.;Welcome+to+my+%E2%9C%A8GitHub+profile%E2%9C%A8!" alt="Greetings">
 </div>
-<!--
-**ksuhangit/ksuhangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="Random dev quote">
+</div>
+## 👥 Contact me
+- 🔗 **LinkedIn:** [@seigtm](https://www.linkedin.com/in/seigtm).
+- ✈️ **Telegram:** [@seigtm](https://t.me/seigtm).
+- 📫 **Email:** [job@seig.ru](mailto:job@seig.ru).
+- 📄 **Russian resume:** [\*click me\*](https://seigtm.github.io).
+## 🔧 Technologies
+- 🚀 **Primary languages:** C++ and C.
+- 📚 **Also familiar with:** Python, Fortran, Java, Kotlin, Rust.
+- 🔨 **Tools & technologies:** STL, Qt, CMake, Ninja, Make, Shell scripting, Boost, Android, Linux (including kernel development), Git, CI/CD, Google Test, Gcovr, Conan, Markdown, LaTex.
+
 
 Here are some ideas to get you started:
 
