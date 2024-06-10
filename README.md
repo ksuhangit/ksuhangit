@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ksu</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Software engeener student from Russia 🇷🇺</h3>
 
 <div id="header" align="center">
 <h1>Hi there, I'm Ksu</h1>
