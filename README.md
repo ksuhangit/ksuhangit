@@ -7,7 +7,7 @@
 ## 👥 Contact me
 - ✈️ **Telegram:** [@ka_nazarova](https://t.me/ka_nazarova).
 - 📫 **Email:** [nazarova.kseniia@mail.ru](mailto:nazarova.kseniia@mail.ru).
-- 📄 **Russian resume:** [\*click me\*](https://seigtm.github.io).
+
 ## 🔧 Technologies
 
 
