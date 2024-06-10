@@ -32,6 +32,8 @@
 - [" Python Generation ": course for beginners](https://stepik.org/cert/1918247?lang=en)
 - [Web development for beginners: HTML and CSS](https://stepik.org/cert/1877786?lang=en)
 
+🌍 **Foreign language skills**:
+- 🇬🇧 
 
 
           
