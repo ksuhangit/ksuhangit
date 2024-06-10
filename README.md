@@ -23,6 +23,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksuhangit&theme=dracula&include_all_commits=true&layout=compact&hide=PureBasic" alt="Most used programming languages">
 </div>
+
+## 🎓 Education
+
+- 📚 **Currently pursuing a degree in Software Engineering** through evening distance learning at Peter the Great St. Petersburg Polytechnic University (Institute of Computer Science and Cybersecurity, High School of Software Engineering).
+- ✔️ **Completed courses** at Novosibirsk Academy (HTML, CSS, C#, Unity) and Information Technologies, Mechanics, and Optics University (C and C++).
+
           
 ## 🔧 Technologies
    
