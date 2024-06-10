@@ -29,10 +29,9 @@
 📓 **Currently pursuing a degree in Software Engineering** through evening distance learning at Peter the Great St. Petersburg Polytechnic University (Institute of Computer Science and Cybersecurity, High School of Software Engineering).
 ✅ **Completed courses**:
 - Python Generation : " Python Generation ": course for beginners
-- ITC : "Web development for beginners: HTML and CSS" 
+- [ITC : "Web development for beginners: HTML and CSS"] (https://stepik.org/cert/1877786?lang=en)
 
 
-- at Novosibirsk Academy (HTML, CSS, C#, Unity) and Information Technologies, Mechanics, and Optics University (C and C++).
 
           
 ## 🔧 Technologies
