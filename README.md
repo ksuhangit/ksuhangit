@@ -15,7 +15,7 @@
           
 ## 🔧 Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" title="fortran" width="40" height="40" />&nbsp;
           
 
 Here are some ideas to get you started:
