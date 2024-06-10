@@ -1,28 +1,6 @@
 <h1 align="center">Hi there, I'm Ksu</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    @keyframes moveText {
-        0% {transform: translateX(0);}
-        50% {transform: translateX(100%);}
-        100% {transform: translateX(0);}
-    }
-
-    .moving-text {
-        display: inline-block;
-        white-space: nowrap;
-        animation: moveText 3s infinite;
-    }
-</style>
-</head>
-<body>
-    <div class="moving-text">Software engineer student from Moscow, Russia</div>
-</body>
-</html>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=1000&lines=Software+engineer+student+from+Moscow%2C+Russia" alt="Typing SVG" /></a>
 
 <div id="socials" align="center"
   <a href="[https://t.me/ka_nazarova">
