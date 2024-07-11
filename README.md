@@ -15,6 +15,7 @@
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" title="fortran" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40" />&nbsp;  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/sql-original.svg" title="sql" width="40" height="40" />&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" title="git" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" title="matlab" width="40" height="40" />&nbsp;
