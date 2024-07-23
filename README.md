@@ -26,7 +26,7 @@
 
 ## 🎓 Education
 
-📓 **Currently studying** Software Engineering at St. Petersburg State University under an individual and distance learning program (Institute of Computer Science and Cybersecurity, High School,2023-2026). GPA 4.7.
+📓 **Currently studying** Software Engineering at St. Petersburg State University under an individual and distance learning program (Institute of Computer Science and Cybersecurity, High School, 2023-2026). GPA 4.7.
 
 ✅ **Completed courses**:
 - [" Python Generation ": course for beginners](https://stepik.org/cert/1918247?lang=en)
